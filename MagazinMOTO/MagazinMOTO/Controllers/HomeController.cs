@@ -15,14 +15,14 @@ namespace MagazinMOTO.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Magazin moto. Cumperi 1 primesti 2";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Incearca, vezi daca poti";
 
             return View();
         }

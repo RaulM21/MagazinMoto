@@ -7,5 +7,6 @@ namespace MagazinMOTO
 {
     public class Class1
     {
+
     }
 }
