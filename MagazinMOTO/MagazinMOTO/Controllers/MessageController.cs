@@ -7,7 +7,8 @@ using System.Web.Mvc;
 
 namespace MagazinMOTO.Controllers
 {
-    
+    int a;
+
     public class MessageController : Controller
     {
         private MessageDbContext dbCtx = new MessageDbContext();
