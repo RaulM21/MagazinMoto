@@ -1,0 +1,6 @@
+C:\Users\raull\source\repos\MagazinMoto\MagazinMOTO\Encrypting\bin\Debug\Encrypting.dll
+C:\Users\raull\source\repos\MagazinMoto\MagazinMOTO\Encrypting\bin\Debug\Encrypting.pdb
+C:\Users\raull\source\repos\MagazinMoto\MagazinMOTO\Encrypting\obj\Debug\Encrypting.csproj.AssemblyReference.cache
+C:\Users\raull\source\repos\MagazinMoto\MagazinMOTO\Encrypting\obj\Debug\Encrypting.csproj.CoreCompileInputs.cache
+C:\Users\raull\source\repos\MagazinMoto\MagazinMOTO\Encrypting\obj\Debug\Encrypting.dll
+C:\Users\raull\source\repos\MagazinMoto\MagazinMOTO\Encrypting\obj\Debug\Encrypting.pdb

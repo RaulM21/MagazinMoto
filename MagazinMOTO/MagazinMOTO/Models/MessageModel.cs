@@ -16,10 +16,10 @@ namespace TestWebApplication1.Models
         [Key]
         public int Id { get; set; }
 
-        [Display(Name = "UserName", ResourceType = typeof(Resource))]
+        //[Display(Name = "UserName", ResourceType = typeof(Resource))]
         public string UserName { get; set; }
 
-        [Display(Name = "Message", ResourceType = typeof(Resource))]
+       // [Display(Name = "Message", ResourceType = typeof(Resource))]
         public string Message { get; set; }
 
     }
