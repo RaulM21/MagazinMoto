@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\Moto\Encryption\bin\Debug\Encryption.dll
+C:\Users\Alex\source\repos\Moto\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Alex\source\repos\Moto\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Moto\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Moto\Encryption\obj\Debug\Encryption.dll
+C:\Users\Alex\source\repos\Moto\Encryption\obj\Debug\Encryption.pdb
